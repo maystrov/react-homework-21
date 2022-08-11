@@ -1,0 +1,13 @@
+.nav-title {
+    color: blue;
+    transform: rotate(270deg);
+    min-width: 300px;
+    margin-top: 300px;
+}
+
+.myNav {
+    background-color: darkgoldenrod;
+    width: 30%;
+    min-height: 100%;
+    font-size: 30px;
+  }
